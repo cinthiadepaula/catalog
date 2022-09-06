@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name":  "T-Shirt - Borboleta",
+        "price": 9.99,
+        "imgUrl":"/img/borboleta.jpg"
+    },
+    {
+        "id": 2,
+        "name":  "T-Shirt - Coração",
+        "price": 14.99,
+        "imgUrl":"/img/heart.jpg"
+    },
+    {
+        "id": 3,
+        "name":  "T-Shirt - Tigre",
+        "price": 29.99,
+        "imgUrl":"/img/tigre.jpg"
+    }
+]
